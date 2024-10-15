@@ -1,4 +1,4 @@
-module github.com/wpcodevo/golang-mongodb
+module github.com/evanpalsson/basesite-main
 
 go 1.18
 
