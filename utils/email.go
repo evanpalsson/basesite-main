@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/evanpalsson/basesite/config"
-	"github.com/evanpalsson/basesite/models"
+	"github.com/evanpalsson/basesite-main/config"
+	"github.com/evanpalsson/basesite-main/models"
 	"github.com/k3a/html2text"
 	"gopkg.in/gomail.v2"
 )

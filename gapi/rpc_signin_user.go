@@ -3,8 +3,8 @@ package gapi
 import (
 	"context"
 
-	"github.com/evanpalsson/basesite/pb"
-	"github.com/evanpalsson/basesite/utils"
+	"github.com/evanpalsson/basesite-main/pb"
+	"github.com/evanpalsson/basesite-main/utils"
 	"go.mongodb.org/mongo-driver/mongo"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"

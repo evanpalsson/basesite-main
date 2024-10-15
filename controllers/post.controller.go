@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/evanpalsson/basesite/models"
-	"github.com/evanpalsson/basesite/services"
+	"github.com/evanpalsson/basesite-main/models"
+	"github.com/evanpalsson/basesite-main/services"
 	"github.com/gin-gonic/gin"
 )
 

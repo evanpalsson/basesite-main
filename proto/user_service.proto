@@ -4,7 +4,7 @@ package pb;
 
 import "user.proto";
 
-option go_package = "github.com/evanpalsson/basesite/pb";
+option go_package = "github.com/evanpalsson/basesite-main/pb";
 
 service UserService {
   rpc GetMe(GetMeRequest) returns (UserResponse) {}

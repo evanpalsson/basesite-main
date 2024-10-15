@@ -1,9 +1,9 @@
 package gapi
 
 import (
-	"github.com/evanpalsson/basesite/config"
-	"github.com/evanpalsson/basesite/pb"
-	"github.com/evanpalsson/basesite/services"
+	"github.com/evanpalsson/basesite-main/config"
+	"github.com/evanpalsson/basesite-main/pb"
+	"github.com/evanpalsson/basesite-main/services"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 

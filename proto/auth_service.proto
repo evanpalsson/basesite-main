@@ -6,7 +6,7 @@ import "rpc_signin_user.proto";
 import "rpc_signup_user.proto";
 import "user.proto";
 
-option go_package = "github.com/evanpalsson/basesite/pb";
+option go_package = "github.com/evanpalsson/basesite-main/pb";
 
 service AuthService {
   rpc SignUpUser(SignUpUserInput) returns (GenericResponse) {}

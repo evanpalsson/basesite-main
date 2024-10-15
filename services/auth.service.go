@@ -1,6 +1,6 @@
 package services
 
-import "github.com/evanpalsson/basesite/models"
+import "github.com/evanpalsson/basesite-main/models"
 
 type AuthService interface {
 	SignUpUser(*models.SignUpInput) (*models.DBResponse, error)

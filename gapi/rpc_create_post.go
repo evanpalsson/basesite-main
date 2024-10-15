@@ -4,8 +4,8 @@ import (
 	"context"
 	"strings"
 
-	"github.com/evanpalsson/basesite/models"
-	"github.com/evanpalsson/basesite/pb"
+	"github.com/evanpalsson/basesite-main/models"
+	"github.com/evanpalsson/basesite-main/pb"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 	"google.golang.org/protobuf/types/known/timestamppb"

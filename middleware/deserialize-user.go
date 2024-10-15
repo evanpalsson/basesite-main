@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/evanpalsson/basesite/config"
-	"github.com/evanpalsson/basesite/services"
-	"github.com/evanpalsson/basesite/utils"
+	"github.com/evanpalsson/basesite-main/config"
+	"github.com/evanpalsson/basesite-main/services"
+	"github.com/evanpalsson/basesite-main/utils"
 	"github.com/gin-gonic/gin"
 )
 

@@ -1,9 +1,9 @@
 package routes
 
 import (
-	"github.com/evanpalsson/basesite/controllers"
-	"github.com/evanpalsson/basesite/middleware"
-	"github.com/evanpalsson/basesite/services"
+	"github.com/evanpalsson/basesite-main/controllers"
+	"github.com/evanpalsson/basesite-main/middleware"
+	"github.com/evanpalsson/basesite-main/services"
 	"github.com/gin-gonic/gin"
 )
 

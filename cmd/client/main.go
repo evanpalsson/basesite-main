@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/evanpalsson/basesite/client"
-	"github.com/evanpalsson/basesite/pb"
+	"github.com/evanpalsson/basesite-main/client"
+	"github.com/evanpalsson/basesite-main/pb"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 )

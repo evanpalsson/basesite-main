@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package pb;
 
-option go_package = "github.com/evanpalsson/basesite/pb";
+option go_package = "github.com/evanpalsson/basesite-main/pb";
 import "post.proto";
 import "rpc_create_post.proto";
 import "rpc_update_post.proto";

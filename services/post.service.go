@@ -1,6 +1,6 @@
 package services
 
-import "github.com/evanpalsson/basesite/models"
+import "github.com/evanpalsson/basesite-main/models"
 
 type PostService interface {
 	CreatePost(*models.CreatePostRequest) (*models.DBPost, error)

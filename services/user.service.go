@@ -1,6 +1,6 @@
 package services
 
-import "github.com/evanpalsson/basesite/models"
+import "github.com/evanpalsson/basesite-main/models"
 
 type UserService interface {
 	FindUserById(id string) (*models.DBResponse, error)

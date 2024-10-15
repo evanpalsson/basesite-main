@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/evanpalsson/basesite/models"
-	"github.com/evanpalsson/basesite/utils"
+	"github.com/evanpalsson/basesite-main/models"
+	"github.com/evanpalsson/basesite-main/utils"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"

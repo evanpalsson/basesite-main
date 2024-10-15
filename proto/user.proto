@@ -3,7 +3,7 @@ syntax = "proto3";
 package pb;
 
 import "google/protobuf/timestamp.proto";
-option go_package = "github.com/evanpalsson/basesite/pb";
+option go_package = "github.com/evanpalsson/basesite-main/pb";
 
 message User {
   string id = 1;

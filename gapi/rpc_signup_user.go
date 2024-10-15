@@ -4,9 +4,9 @@ import (
 	"context"
 	"strings"
 
-	"github.com/evanpalsson/basesite/models"
-	"github.com/evanpalsson/basesite/pb"
-	"github.com/evanpalsson/basesite/utils"
+	"github.com/evanpalsson/basesite-main/models"
+	"github.com/evanpalsson/basesite-main/pb"
+	"github.com/evanpalsson/basesite-main/utils"
 	"github.com/thanhpk/randstr"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
